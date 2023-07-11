@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srinjoy Dhar</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=um19N%2foe&id=161DB8D0372DD5857E3C37410C425D8A0AEFF2B8&thid=OIP.um19N_oeTKlmrHMov0O5bAHaEH&mediaurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fba6d7d37fa1e4ca966ac7328bf43b96c%2ftenor.gif%3fitemid%3d18657810&exph=277&expw=498&q=animated+coding+images&simid=608014408677947144&FORM=IRPRST&ck=219EA18847FB37C4EF2063F77A20B9F2&selectedIndex=3&ajaxhist=0&ajaxserp=0"
+<img align="right" alt="coding" width="1000" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?w=740&t=st=1689088692~exp=1689089292~hmac=6d3ebaad89bada815a13ee1c079849f563a1d247ee26bc9d92e647b9e370d834"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinjoydhar19&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoydhar19" /> </p>
 
