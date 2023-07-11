@@ -1,6 +1,8 @@
+[![MasterHead](https://i2.wp.com/www.beaude.net/no-flux/wp-content/uploads/2015/07/dLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif)](https://srinjoydhar.io)
+
 <h1 align="center">Hi 👋, I'm Srinjoy Dhar</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="coding" width="1000" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?w=740&t=st=1689088692~exp=1689089292~hmac=6d3ebaad89bada815a13ee1c079849f563a1d247ee26bc9d92e647b9e370d834"
+<img align="right" alt="coding" width="500" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?w=740&t=st=1689088692~exp=1689089292~hmac=6d3ebaad89bada815a13ee1c079849f563a1d247ee26bc9d92e647b9e370d834"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinjoydhar19&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoydhar19" /> </p>
 
